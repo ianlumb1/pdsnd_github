@@ -11,7 +11,7 @@ Cities = ['chicago', 'new york city']
 # Project Months:
 Months = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
 # Project Weekdays:
-Days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
+Days = ['wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
 
 
 def get_filters():
